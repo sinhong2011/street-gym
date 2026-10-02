@@ -1,0 +1,14 @@
+anatomy.glb — decimated derivative of:
+
+  Z-Anatomy — The libre 3D atlas of anatomy (Gauthier Kervyn et al.)
+  https://www.z-anatomy.com/ · https://github.com/Z-Anatomy/Models-of-human-anatomy
+  Licensed CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+
+  which includes models derived from
+  BodyParts3D, © The Database Center for Life Science
+  Licensed CC BY-SA 2.1 Japan — https://creativecommons.org/licenses/by-sa/2.1/jp/
+
+Changes: muscular and skeletal systems only; meshes decimated (muscles ~10%, bones ~5%);
+materials removed; Draco-compressed. Generated with scripts/export-anatomy.py.
+
+This file is distributed under CC BY-SA 4.0.
